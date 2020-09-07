@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.container {
+  background: url('../../images/menuBg.jpg') no-repeat center center;
+  background-size: cover;
+  height: 70vh;
+  width: 30vw;
+  padding-top: 30vh;
+  padding-left: 70vw;
+  display: flex;
+  flex-direction: column
+}
+.container > a {
+  height: 7vh;
+  width: 20vw;
+  margin: 3vh auto;
+  padding-top: 4vh;
+  border: 3px solid black;
+  border-radius: 10px;
+  background: url('../../images/bg1.jpg')  center center;
+  background-size: contain;
+  box-shadow: 1px 1px 2px black, 0 0 1em #004321;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  color: #39a733;
+  font:bold 30px/24px Helvetica;
+  text-shadow: 1px 1px 2px black, 0 0 1em red;
+}
+
+.nav:hover {
+  color: #54ff4d;
+  box-shadow: 4px 4px 8px black, 0 0 3em #226323;
+}

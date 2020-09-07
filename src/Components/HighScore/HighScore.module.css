@@ -1,0 +1,60 @@
+.banner{
+    background: url('../../images/high.jpg') no-repeat;
+    background-size: cover;
+    margin-left: 15vw;
+    margin-bottom: 10vh;
+    width:70vw;
+    height: 35vh;
+}
+.bg {
+    background-color: black;
+    height: 100vh;
+    overflow-y: scroll;
+}
+.date {
+    font: bold 3vh/7vh Helvetica;
+    padding-right: 2vw;
+}
+.error {
+    margin: 10vh 35vw;
+    color: #bd1618;
+    font: bold 5vh/5vh Helvetica;
+}
+.exit{
+    background: url('../../images/exit.jpg') no-repeat center center;
+    background-size: cover;
+    position: absolute;
+    top: 5vh;
+    right: 4vw;
+    height: 8vh;
+    width: 8vw;
+}
+.header{
+    margin: 0 0 0 63vw;
+    color: #bdb76b;
+    font: bold 3.5vh Helvetica;
+}
+.list{
+    color:white;
+    margin-left: 25vw;
+    margin-top: 3vh;
+    padding-left: 2vw;
+    width:48vw;
+    height: 6vh;
+    font: bold 5vh/7vh Helvetica;
+    list-style-type: none;
+    border-width: 5px;
+    border-style: double;
+    border-color: #aca881;
+    border-radius: 10px;
+}
+.time{
+    float: right;
+    margin-right: 1vw;
+    color: #b40000;
+}
+.score{
+    float: right;
+    margin-right: 3vw;
+    color: #105615;
+}

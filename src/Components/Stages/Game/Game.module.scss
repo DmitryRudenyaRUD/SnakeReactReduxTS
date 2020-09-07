@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.arrows {
+  background: url('../../../images/arrow.png') no-repeat;
+  background-size: 100%;
+  height: 17vh;
+  width: 15vw;
+  margin-top: 4vh;
+}
+.bg {
+  background: url('../../../images/gameBg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-areas: 'header header'
+                       'tips field'
+                       '. field';
+  grid-template-rows: 20vh 1fr 1fr;
+  grid-template-columns: 16vw 1fr;
+}
+.bgTips {
+  grid-area: tips;
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+}
+.bgTips > p{
+  text-shadow: 5px 6px 1px #373740, 0 0 1em #ffb900;
+  color: #fbfb3d;
+  font:bold 4vh/4vh Helvetica;
+  text-align: center;
+}
+.blood {
+  background: url('../../../images/b3.png');
+  background-size: cover;
+  width: 270%;
+  height: 270%;
+}
+.cell {
+  width: 2.4vw;
+  height: 2.4vw;
+  font: 14px/10px Helvetica;
+  color: white;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  background: url('../../../images/grass3.jpg');
+  background-size: cover;
+  grid-area: field;
+  width: max-content;
+  height: max-content;
+  border: 1.2vw groove black;
+  box-shadow: 12px 12px 16px black, 0 0 4em #330095;
+}
+.clock {
+  background: url('../../../images/clock.png') no-repeat;
+  background-size: 100%;
+  margin: 3vh 0 0 3vw;
+  height: 10vh;
+  width: 5vw;
+}
+.exit {
+  background: url('../../../images/exit.jpg') no-repeat center center;
+  background-size: cover;
+  position: absolute;
+  top: 5vh;
+  right: 10vw;
+  height: 9vh;
+  width: 10vw;
+}
+@each $orientation in ArrowRight, ArrowLeft, ArrowUp, ArrowDown {
+  @for $i from 1 through 12 {
+    .head#{$orientation}#{$i} {
+      background: url('../../../images/h#{$i}.png');
+      background-size: cover;
+
+      @if $i == 12 {
+        width: 250%;
+        height: 160%
+      } @else {
+        width: 200%;
+        height: 140%
+      }
+
+      @if $orientation == ArrowRight {
+        margin-top: -1vh;
+      } @else if $orientation == ArrowLeft {
+        margin-top: -1vh;
+        margin-left: -4vh;
+        transform: scaleX(-1);
+      } @else if $orientation == ArrowUp {
+        margin-left: -2.5vh;
+        transform: rotate(270deg);
+      } @else {
+        margin-left: -2.5vh;
+        transform: rotate(90deg);
+      }
+    }
+  }
+}
+.header {
+  grid-area: header;
+  display: flex;
+  flex-direction: row;
+}
+.mouse {
+  background: url('../../../images/m4.gif') no-repeat center center;
+  background-size: cover;
+  width: 170%;
+  height: 140%;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.text {
+  padding: 2vh 1vw;
+  font: bold 8vh/13vh Helvetica;
+  text-shadow: 5px 6px 1px #373740, 0 0 1em #ffb900;
+  color: #fbfb3d;
+}
+.score {
+  background: url('../../../images/dollar.png') no-repeat;
+  margin: 4vh 0 0 2vw;
+  background-size: 100%;
+  height: 8vh;
+  width: 10vw;
+  border-radius: 1vw;
+}
+.space {
+  background: url('../../../images/space.png') no-repeat;
+  background-size: 100%;
+  height: 5vh;
+  width: 14vw;
+  margin-left: 0.7vw;
+  margin-top: 4vh;
+}
+.pause {
+  position: absolute;
+  top: 33vh;
+  left: 42vw;
+  background: url('../../../images/pause.png') no-repeat;
+  background-size: 100%;
+  height: 35vh;
+  width: 15vw;
+}
+
+@for $i from 1 through 12 {
+  .snake#{$i} {
+    background: url('../../../images/s#{$i}.jpg') no-repeat;
+    @if $i == 12 {
+      background-size: 150%;
+    } @else {
+      background-size: 250%;
+    }
+    width: 100%;
+    height: 100%;
+  }
+}

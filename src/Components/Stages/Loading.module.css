@@ -1,0 +1,17 @@
+.bg{
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+    padding: 30vh 0 0 25vw;
+    box-sizing: border-box;
+}
+.loading{
+    background: url('../../images/L.gif') no-repeat;
+    background-size: cover;
+    height: 35vh;
+    width: 55vw;
+}
+.text{
+    margin: 10vh 0 0 15vw;
+    color: cornsilk;
+}

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2a7f740-6880-44f6-97e8-1386cf0cea25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1dYDfHm3hVWfEYbtQ25Vf1R9tLr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../search-for-movies" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="D:\PROGECTS\SnakeReactReduxTS\snake-react-redux-ts\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PROGECTS\SnakeReactReduxTS\snake-react-redux-ts\src\Components\Stages\Game" />
+      <recent name="D:\PROGECTS\SnakeReactReduxTS\snake-react-redux-ts\src\Redux\Actions" />
+      <recent name="D:\PROGECTS\SnakeReactReduxTS\snake-react-redux-ts\src\Redux\Reducers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2a7f740-6880-44f6-97e8-1386cf0cea25" name="Default Changelist" comment="" />
+      <created>1592593234614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592593234614</updated>
+      <workItem from="1592593241679" duration="794000" />
+      <workItem from="1592646291061" duration="694000" />
+      <workItem from="1592650358915" duration="1767000" />
+      <workItem from="1592652195413" duration="1885000" />
+      <workItem from="1592656698922" duration="345000" />
+      <workItem from="1592657086939" duration="1909000" />
+      <workItem from="1592659201809" duration="1537000" />
+      <workItem from="1592661013002" duration="1635000" />
+      <workItem from="1592822879512" duration="1736000" />
+      <workItem from="1592825646326" duration="1771000" />
+      <workItem from="1592827459609" duration="1768000" />
+      <workItem from="1592842261914" duration="1771000" />
+      <workItem from="1592844242388" duration="1765000" />
+      <workItem from="1592846102888" duration="1367000" />
+      <workItem from="1592848076625" duration="1776000" />
+      <workItem from="1592850003279" duration="1770000" />
+      <workItem from="1592851814207" duration="1771000" />
+      <workItem from="1592853772422" duration="609000" />
+      <workItem from="1592905630167" duration="1719000" />
+      <workItem from="1592907423017" duration="1770000" />
+      <workItem from="1592909960206" duration="2137000" />
+      <workItem from="1592915994547" duration="1776000" />
+      <workItem from="1593078057737" duration="2159000" />
+      <workItem from="1593167110086" duration="1757000" />
+      <workItem from="1593169005282" duration="1759000" />
+      <workItem from="1593170824345" duration="1774000" />
+      <workItem from="1593172657509" duration="1268000" />
+      <workItem from="1593174717853" duration="1776000" />
+      <workItem from="1593256294191" duration="1747000" />
+      <workItem from="1593258079540" duration="1892000" />
+      <workItem from="1593260209776" duration="1772000" />
+      <workItem from="1593262026149" duration="1771000" />
+      <workItem from="1593438015977" duration="742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#ESLint" timestamp="1592657352635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1592657352635" />
+    <state x="350" y="57" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593173005220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="57" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1593173005220" />
+    <state x="258" y="122" key="EditFileWatcherDialog" timestamp="1592661472344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="258" y="122" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1592661472344" />
+    <state x="413" y="67" key="FileChooserDialogImpl" timestamp="1593439561845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="67" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1593439561845" />
+    <state width="1339" height="161" key="GridCell.Tab.0.bottom" timestamp="1592828812501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592828812501" />
+    <state width="1339" height="161" key="GridCell.Tab.0.center" timestamp="1592828812500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592828812500" />
+    <state width="1339" height="161" key="GridCell.Tab.0.left" timestamp="1592828812500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592828812500" />
+    <state width="1339" height="161" key="GridCell.Tab.0.right" timestamp="1592828812500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592828812500" />
+    <state x="86" y="0" key="SettingsEditor" timestamp="1592850170136">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="86" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592850170136" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1593173255173">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1593173255173" />
+  </component>
+</project>
